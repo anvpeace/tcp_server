@@ -1,6 +1,4 @@
 
-
-````markdown
 # 🖧 TCP Server (Python)
 
 A simple Python-based TCP server that accepts incoming connections, receives data from clients, and prints it to the console. Useful for basic network testing, socket programming practice, or as a template for more complex server applications.
@@ -72,10 +70,6 @@ This server is for educational and testing use. It accepts raw input and should 
 MIT License. See [`LICENSE`](LICENSE) for details.
 
 ```
-
----
-
-Let me know if you’d like this expanded to include concurrency (e.g., threading for multiple clients) or a companion client script.
 ```
 
 #Code Explaination
